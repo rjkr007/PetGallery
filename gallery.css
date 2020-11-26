@@ -1,9 +1,10 @@
-img {
+ img {
   display: block;
   max-width: 100%;
   height: auto;
-}
+} 
 
 h1 {
   color: rgb(226, 43, 150);
+  text-align: center;
 }
