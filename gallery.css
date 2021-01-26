@@ -3,7 +3,7 @@
   grid-template-columns: auto;
   grid-template-rows: auto;
   justify-content: space-evenly;
-}
+  }
 
 img {
   height: 200px;
@@ -14,5 +14,5 @@ img {
 
 h1 {
   color: rgb(226, 43, 150);
-  padding-left: 35%;
+  padding-left: 38%;
 }
